@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n*$py.class\n*.so\n.Python\nvenv/\n.env\nmodel/*.h5\ndata/raw/\ndata/processed/\nfrontend/node_modules/\nfrontend/.next/\nfrontend/build/
